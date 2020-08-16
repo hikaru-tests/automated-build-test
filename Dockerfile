@@ -1,2 +1,2 @@
-docker-samples/static-site
-AUTHOR="Hikaru"
+FROM docker-samples/static-site
+ENV  AUTHOR="Hikaru"
